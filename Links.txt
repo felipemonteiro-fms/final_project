@@ -2,3 +2,4 @@ README
 https://github.com/felipemonteiro-fms/final_project/blob/main/README.md
 
 INIT
+https://github.com/felipemonteiro-fms/final_project/blob/main/EmotionDetection/__init__.py
